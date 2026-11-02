@@ -5,7 +5,9 @@
 
 **Estudiantes:** 
 Sergio Sandoval Valenzuela
+
 Vicente Milla Espinoza
+
 **Profesor:** Eithel Gonzalez Rojas
 **Carrera:** Analista Programador  
 **Sede:** Santiago Online  
