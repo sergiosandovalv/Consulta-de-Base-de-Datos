@@ -4,9 +4,7 @@
 # 🧠 Consulta de Bases de Datos
 
 **Estudiantes:** 
-Sergio Sandoval Valenzuela
-
-Vicente Milla Espinoza
+Sergio Sandoval Valenzuela | Vicente Milla Espinoza
 
 **Profesor:** Eithel Gonzalez Rojas
 
