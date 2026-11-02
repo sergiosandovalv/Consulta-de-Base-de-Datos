@@ -51,7 +51,7 @@ Desarrollar consultas SQL aplicando:
 
 ## 📂 Archivos Semana 2
 
-- `PRY2205_Exp1_S2_ShiverSale.sql`
+- `Exp1_S2_Grupo11.sql`
 - `README.md`
 
 El script SQL contiene:
